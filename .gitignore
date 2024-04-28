@@ -7,3 +7,7 @@ __pycache__/
 node_modules/
 .github/
 cloudinary_python.txt
+# Mac-generated file for folders
+**/.DS_Store
+# misc draft files
+/_support_docs
