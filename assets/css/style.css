@@ -43,6 +43,9 @@ h4 {
     color: #fafafa
 }
 
+.inline-block {
+    display: inline-block;
+}
 
 /* Headings */
 
